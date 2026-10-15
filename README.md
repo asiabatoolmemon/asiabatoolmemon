@@ -22,9 +22,9 @@ A passionate creative bridging the gap between high-impact visual design and mod
 
 #### 🎧 AcousticX — Static Product Landing Page
 <p align="left">
-  <a href="https://github.com"><strong>Explore Code Repository »</strong></a>
+  <a href="https://github.com/asiabatoolmemon/my-landing-page"><strong>Explore Code Repository »</strong></a>
   ·
-  <a href="https://github.io"><strong>View Live Demo »</strong></a>
+  <a href="https://asiabatoolmemon.github.io/my-landing-page/"><strong>View Live Demo »</strong></a>
 </p>
 
 A clean, premium, and fully responsive static product landing page designed to showcase audio hardware. Built from scratch to practice modern UI/UX layout design concepts and clean front-end code structures.
