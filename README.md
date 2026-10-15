@@ -7,14 +7,14 @@ A passionate creative bridging the gap between high-impact visual design and mod
 ---
 
 ### 💼 Current Experience & Highlights
-- 🎨 *Graphic Design Intern* at [Oasis Infobyte](https://oasisinfobyte.com) — Crafting visual brand elements and project layout assets.
-- 🚀 *Latest Milestone:* Successfully built and deployed my first custom landing page project!
+- 🎨 **Graphic Design Intern** at [Oasis Infobyte](https://oasisinfobyte.com) — Crafting visual brand elements and project layout assets.
+- 🚀 **Latest Milestone:** Successfully built and deployed a custom static responsive product landing page for **AcousticX**!
 
 ---
 
 ### 📚 Education & Certifications
-- 🛡️ *Introduction to Cybersecurity* — Harvard University (CS50 via edX)
-- 💻 *Web & Mobile Application Development* — Saylani Mass IT Training Program (Sukkur)
+- 🛡️ **Introduction to Cybersecurity** — Harvard University (CS50 via edX)
+- 💻 **Web & Mobile Application Development** — Saylani Mass IT Training Program (Sukkur)
 
 ---
 
@@ -22,29 +22,32 @@ A passionate creative bridging the gap between high-impact visual design and mod
 
 #### 🎧 AcousticX — Static Product Landing Page
 <p align="left">
-  <a href="https://github.com/asiabatoolmemon/my-landing-page"><strong>Explore Code Repository »</strong></a>
+  <a href="https://github.com"><strong>Explore Code Repository »</strong></a>
   ·
-  <a href="https://asiabatoolmemon.github.io/my-landing-page/"><strong>View Live Demo »</strong></a>
+  <a href="https://github.io"><strong>View Live Demo »</strong></a>
 </p>
 
 A clean, premium, and fully responsive static product landing page designed to showcase audio hardware. Built from scratch to practice modern UI/UX layout design concepts and clean front-end code structures.
 
-*   *⚡ Key Features:* 
-    *   Responsive layout styled using *CSS Flexbox* for fluid sizing across mobile and desktop screens.
+*   **⚡ Key Features:** 
+    *   Responsive layout styled using **CSS Flexbox** for fluid sizing across mobile and desktop screens.
     *   Custom-curated visual design elements tailored to match professional interface principles.
     *   Clean, semantic HTML layout mapped sequentially from layout header to footer.
-*   *🛠️ Tech Stack:* HTML5, Custom CSS3 layouts, Git version control.
-*   *🎨 Design Impact:* Combined vector branding concepts with structured web formatting for a polished finish.
+*   **🛠️ Tech Stack:** HTML5, Custom CSS3 layouts, Git version control.
+*   **🎨 Design Impact:** Combined vector branding concepts with structured web formatting for a polished finish.
 
 ---
 
 ### 🛠️ Creative & Tech Stack
 
 #### 💻 Development & Security
-<img src="https://shields.io" alt="HTML5" /> <img src="https://shields.io" alt="CSS3" /> <img src="https://shields.io" alt="Git" />
+- 🟠 **HTML5** (Semantic Markup & Web Structures)
+- 🔵 **CSS3** (Flexbox, Layouts & Responsive Design)
+- 🔴 **Git & GitHub** (Version Control & Collaboration)
 
 #### 🎨 Visual Design
-<img src="https://shields.io" alt="Adobe Photoshop" /> <img src="https://shields.io" alt="Adobe Illustrator" />
+- 🔹 **Adobe Photoshop** (Image Manipulation & UI Assets)
+- 🔸 **Adobe Illustrator** (Vector Assets & Brand Layouts)
 
 ---
 
@@ -54,18 +57,5 @@ A clean, premium, and fully responsive static product landing page designed to s
 
 ---
 
-### 📊 Live GitHub Insights
-
-<p align="left">
-  <img src="https://vercel.app" alt="Asia's GitHub Stats" height="160" />
-  <img src="https://vercel.app" alt="Top Languages" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="100%" />
-</p>
-
----
-
 ### 🤝 Let's Connect!
-- 💼 *LinkedIn:* [Connect on LinkedIn](https://linkedin.com/in/asia-batool-memon) <!-- Paste your complete public URL handle inside the parenthesis -->
+- 💼 **LinkedIn:** [Connect on LinkedIn](https://linkedin.com/in/asia-batool-com) *<!-- Paste your complete public URL handle inside the parenthesis -->*
