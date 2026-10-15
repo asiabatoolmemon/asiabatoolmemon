@@ -41,13 +41,10 @@ A clean, premium, and fully responsive static product landing page designed to s
 ### 🛠️ Creative & Tech Stack
 
 #### 💻 Development & Security
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![Git](https://shields.io)
+<img src="https://shields.io" alt="HTML5" /> <img src="https://shields.io" alt="CSS3" /> <img src="https://shields.io" alt="Git" />
 
 #### 🎨 Visual Design
-![Adobe Photoshop](https://shields.io)
-![Adobe Illustrator](https://shields.io)
+<img src="https://shields.io" alt="Adobe Photoshop" /> <img src="https://shields.io" alt="Adobe Illustrator" />
 
 ---
 
@@ -64,11 +61,11 @@ A clean, premium, and fully responsive static product landing page designed to s
   <img src="https://vercel.app" alt="Top Languages" height="160" />
 </p>
 
+<p align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="100%" />
+</p>
+
 ---
 
 ### 🤝 Let's Connect!
 - 💼 *LinkedIn:* [Connect on LinkedIn](https://linkedin.com/in/asia-batool-memon) <!-- Paste your complete public URL handle inside the parenthesis -->
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="100%" />
-</p>
