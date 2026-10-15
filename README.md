@@ -22,7 +22,7 @@ A passionate creative bridging the gap between high-impact visual design and mod
 
 #### 🎧 AcousticX — Static Product Landing Page
 <p align="left">
-  <a href="https://github.com"><strong>Explore Code Repository »</strong></a>
+  <a href="**https://github.com/asiabatoolmemon/my-landing-page**"><strong>Explore Code Repository »</strong></a>
   ·
   <a href="https://asiabatoolmemon.github.io/my-landing-page/"><strong>View Live Demo »</strong></a>
 </p>
