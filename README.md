@@ -1,75 +1,94 @@
-# Asia Batool Memon
+![Asia Batool Memon — Developer Portfolio](./header.svg)
 
-### Aspiring Full-Stack Developer | Web Development & Visual Design
+<p align="center">
+  <a href="https://github.com/asiabatoolmemon">GITHUB</a> &nbsp; • &nbsp;
+  <a href="https://www.linkedin.com/in/asia-batool-memon/">LINKEDIN</a>
+</p>
 
-I’m an aspiring developer who enjoys combining creativity and technology to build clean, user-friendly web experiences. I’m continuously learning, experimenting with new ideas, and developing practical projects to strengthen my skills.
+<p align="center">
+  <b>Aspiring Full-Stack Developer</b><br>
+  Web Development · Visual Design
+</p>
 
-- 💻 Building websites with HTML5 and CSS3
-- 🎨 Interested in graphic design, visual storytelling, and UI design
-- 🌱 Continuously expanding my web development skills
+---
+
+## About Me
+
+I'm an aspiring developer who enjoys combining creativity and technology to build clean, user-friendly web experiences.
+
+- 💻 Building projects with HTML5 and CSS3
+- 🎨 Interested in visual design, typography, and user experience
+- 🌱 Continuously learning and improving my development skills
 - 🎯 Working toward becoming a Full-Stack Developer
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-**Web Development**
-- HTML5
-- CSS3
-- Git & GitHub
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
 
-**Design**
-- Graphic Design
-- Typography & Layout
-- Visual Hierarchy
-
-**Currently Exploring**
-- JavaScript
-- Responsive Web Design
-- Full-Stack Development
+**Currently exploring:** JavaScript, responsive web development, and Full-Stack Development.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🎧 AcousticX — Headphone Landing Page
+### 🎧 AcousticX
 
-A product landing page designed to showcase headphones through a clean layout and modern visual presentation.
+A headphone landing page built with HTML and CSS, showcasing product information through a structured web interface.
 
-- Built with HTML5 and CSS3
-- Product-focused layout and styling
-- Designed to present product information in an engaging way
+<p>
+  <a href="https://github.com/asiabatoolmemon/AcousticX">View Source Code</a>
+</p>
 
-🔗 [View Source Code](https://github.com/asiabatoolmemon/AcousticX)  
-🌐 [View Live Demo](https://asiabatoolmemon.github.io/AcousticX/)
+<p>
+  <a href="https://asiabatoolmemon.github.io/AcousticX/">View Live Demo</a>
+</p>
 
-### 🎨 OIBSIP — Graphic Design Internship
+### 🎨 OIBSIP
 
-A collection of work associated with my graphic design internship, reflecting my interest in visual communication and creative design.
+My graphic design internship repository, reflecting my interest in creative work and visual communication.
 
-🔗 [Explore Repository](https://github.com/asiabatoolmemon/OIBSIP)
+<p>
+  <a href="https://github.com/asiabatoolmemon/OIBSIP">Explore Repository</a>
+</p>
 
 ---
 
-## 💡 Experience & Learning
+## Design Meets Development
 
-- **Graphic Design Internship — Oasis Infobyte:** Developing creative design work and strengthening my visual communication skills.
-- **Web and Mobile App Development:** Building my development foundations through practical learning and projects.
+My graphic design background helps me approach development with attention to typography, layout, visual hierarchy, and consistency.
+
+I enjoy learning by building, experimenting with ideas, and improving my projects through practice.
+
+---
+
+## Experience & Learning
+
+- **Graphic Design:** Creative design practice and visual communication.
+- **Web Development:** Building practical projects with HTML and CSS.
 - **Cybersecurity:** Exploring foundational cybersecurity concepts.
 
 ---
 
-## 🎨 Beyond Code
+## Let's Connect
 
-My background in graphic design helps me approach development with an eye for typography, layout, consistency, and user experience. I enjoy turning ideas into visual experiences and improving my work through hands-on practice.
+<p>
+  <a href="https://github.com/asiabatoolmemon">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+  </a>
+  <a href="https://www.linkedin.com/in/asia-batool-memon/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+  </a>
+</p>
 
 ---
 
-## 🤝 Let's Connect
-
-- 💻 **GitHub:** [@asiabatoolmemon](https://github.com/asiabatoolmemon)
-- 💼 **LinkedIn:** [Asia Batool Memon](https://www.linkedin.com/in/asia-batool-memon/)
-
----
-
-*Learning continuously. Building thoughtfully. Growing with every project.*
+<p align="center">
+  <i>Learning continuously. Building thoughtfully. Growing with every project.</i>
+</p>
