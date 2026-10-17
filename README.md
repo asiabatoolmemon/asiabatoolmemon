@@ -45,7 +45,7 @@ I enjoy experimenting with ideas, creating digital experiences, and learning by 
   <tr>
     <td width="50%" align="center">
       <a href="https://asiabatoolmemon.github.io/AcousticX/">
-        <img src="./artboard-acousticx.svg" width="100%" alt="Open AcousticX — static website project">
+        <img src="./artboard-acousticx.svg?v=2" width="100%" alt="Open AcousticX — static website project">
       </a>
       <strong>01 — ACOUSTICX</strong><br>
       <sub>HTML · CSS · LIVE PROJECT</sub><br>
@@ -55,7 +55,7 @@ I enjoy experimenting with ideas, creating digital experiences, and learning by 
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/asiabatoolmemon/OIBSIP">
-        <img src="./artboard-oasis.svg" width="100%" alt="Open Oasis Sips and Work design project">
+        <img src="./artboard-oasis.svg?v=2" width="100%" alt="Open Oasis Sips and Work design project">
       </a>
       <strong>02 — OASIS SIPS &amp; WORK</strong><br>
       <sub>BRANDING · VISUAL DESIGN</sub><br>
@@ -65,7 +65,7 @@ I enjoy experimenting with ideas, creating digital experiences, and learning by 
   <tr>
     <td colspan="2" align="center">
       <a href="https://www.linkedin.com/in/asia-batool-memon">
-        <img src="./artboard-linkedin.svg" width="72%" alt="Connect with Asia Batool Memon on LinkedIn">
+        <img src="./artboard-linkedin.svg?v=2" width="72%" alt="Connect with Asia Batool Memon on LinkedIn">
       </a><br>
       <strong>03 — CONNECT</strong><br>
       <sub>CREATIVE DESIGN · WEB DEVELOPMENT · LEARNING</sub><br>
