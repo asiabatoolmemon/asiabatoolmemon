@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Asia Batool Memon — Floating Artboards</title>
+<style>
+:root{color-scheme:dark;--bg:#0b0b0d;--red:#d66b72;--muted:#b8aeb2;--line:#59363c}
+*{box-sizing:border-box}
+body{margin:0;min-height:100vh;background:radial-gradient(ellipse at 50% 30%,#241418 0%,#111013 45%,#09090b 100%);color:#f5eff0;font-family:Arial,Helvetica,sans-serif;overflow-x:hidden}
+main{max-width:1050px;margin:auto;padding:58px 24px 70px}
+.eyebrow{text-align:center;color:#c86b70;font:11px monospace;letter-spacing:3px}
+h1{text-align:center;font-size:clamp(28px,5vw,48px);letter-spacing:-1.8px;margin:15px 0 10px}
+.sub{text-align:center;color:var(--muted);font-size:14px;margin:0 0 50px}
+.deck{display:flex;justify-content:center;align-items:center;gap:clamp(10px,3vw,34px);perspective:1200px;flex-wrap:wrap;padding:20px 0 36px}
+.card-link{display:block;width:min(27vw,245px);min-width:190px;text-decoration:none;color:inherit;transform-style:preserve-3d;animation:float 5.8s ease-in-out infinite;transition:transform .35s ease,filter .35s ease;filter:drop-shadow(0 24px 18px #0009)}
+.card-link:nth-child(2){animation-delay:-1.9s;transform:translateY(10px) rotateY(-5deg) rotateZ(1deg)}
+.card-link:nth-child(3){animation-delay:-3.7s;transform:translateY(-4px) rotateY(5deg) rotateZ(-1deg)}
+.card{position:relative;aspect-ratio:3/4;background:linear-gradient(145deg,#252126,#121114 70%);border:1px solid #875058;padding:18px 16px 17px;overflow:hidden;box-shadow:inset 0 0 0 5px #0b0a0c,inset 0 0 0 6px #3f3036;transform:rotateY(-4deg);transition:transform .35s ease,border-color .35s ease}
+.card:before{content:"";position:absolute;inset:0;background:linear-gradient(115deg,#fff1 0%,transparent 28%,transparent 75%,#d66b7210 100%);pointer-events:none}
+.card:after{content:"";position:absolute;inset:6px -5px -6px 6px;border-right:7px solid #552d34;border-bottom:7px solid #321a20;z-index:-1;transform:translateZ(-12px)}
+.card-link:hover{animation-play-state:paused;filter:drop-shadow(0 34px 24px #000c)}
+.card-link:hover .card{transform:translateY(-9px) rotateY(0deg) rotateX(1deg);border-color:#d66b72}
+.card-link:focus-visible{outline:2px solid var(--red);outline-offset:7px}
+.label{font:9px monospace;letter-spacing:1.1px;color:#c86b70;white-space:nowrap}
+.rule{height:1px;background:#654148;margin:13px 0 22px}
+h2{font-size:clamp(22px,3vw,29px);letter-spacing:-1px;line-height:1.02;margin:0 0 20px}
+h2 span{color:var(--red);display:block}
+.visual{height:38%;min-height:105px;background:#21171b;border:1px solid #724149;display:flex;align-items:center;justify-content:center;margin:0 0 20px;position:relative;overflow:hidden}
+.disc{width:86px;height:86px;border:1.5px solid #d66b72;border-radius:50%;display:grid;place-items:center;box-shadow:0 0 24px #d66b7220}
+.disc:before{content:"";width:53px;height:53px;border:1px solid #8b424b;border-radius:50%;position:absolute}
+.disc:after{content:"";width:15px;height:15px;border-radius:50%;background:#d66b72}
+.cup{width:54px;height:48px;border:2px solid #d66b72;border-radius:2px 2px 18px 18px;position:relative}
+.cup:after{content:"";position:absolute;width:17px;height:20px;border:2px solid #d66b72;border-left:0;border-radius:0 12px 12px 0;right:-17px;top:7px}
+.steam{position:absolute;top:22px;display:flex;gap:8px}
+.steam i{display:block;width:1px;height:17px;background:#d66b72;transform:skew(-14deg)}
+.inbox{width:54px;height:54px;border:1px solid #9c4c54;border-radius:4px;background:#24171b;color:#d66b72;font-weight:bold;font-size:34px;display:grid;place-items:center}
+.desc{color:var(--muted);font-size:11px;line-height:1.5;min-height:36px}
+.foot{border-top:1px solid #4d353b;margin-top:15px;padding-top:12px;color:#d66b72;font:8px monospace;letter-spacing:.8px}
+.hint{text-align:center;color:#8f7e84;font:10px monospace;letter-spacing:1.2px;margin-top:16px}
+.signature{text-align:center;color:#82777d;font:10px monospace;letter-spacing:2px;margin-top:48px}
+@keyframes float{0%,100%{translate:0 0;rotate:0deg}50%{translate:0 -13px;rotate:.7deg}}
+@media(max-width:650px){main{padding:42px 16px}.deck{gap:22px}.card-link{width:min(42vw,220px);min-width:145px}.card{padding:14px 12px}.desc{font-size:10px}.label{font-size:8px}.rule{margin:10px 0 16px}}
+@media(prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;transition:none!important}}
+</style>
+</head>
+<body><main>
+<p class="eyebrow">PERSONAL SYSTEM / 001</p>
+<h1>ASIA BATool MEMON</h1>
+<p class="sub">DESIGN MEETS CODE · SELECTED WORK</p>
+<section class="deck" aria-label="Clickable floating portfolio artboards">
+<a class="card-link" href="https://asiabatoolmemon.github.io/AcousticX/" aria-label="Open AcousticX live project">
+<article class="card"><div class="label">SELECTED WORK / 001</div><div class="rule"></div><h2>ACOUSTIC<span>X.</span></h2><div class="visual"><div class="disc"></div></div><p class="desc">A static website built with HTML &amp; CSS.</p><div class="foot">LAYOUT / TYPE / FRONT-END ↗</div></article></a>
+<a class="card-link" href="https://github.com/asiabatoolmemon/OIBSIP" aria-label="Explore Oasis Sips and Work design repository">
+<article class="card"><div class="label">DESIGN ARCHIVE / 002</div><div class="rule"></div><h2>OASIS SIPS<span>&amp; WORK</span></h2><div class="visual"><div class="steam"><i></i><i></i><i></i></div><div class="cup"></div></div><p class="desc">Coworking café brand concept for students and creative minds.</p><div class="foot">BRANDING / VISUAL DESIGN ↗</div></article></a>
+<a class="card-link" href="https://www.linkedin.com/in/asia-batool-memon" aria-label="Open LinkedIn profile">
+<article class="card"><div class="label">FIND ME / 003</div><div class="rule"></div><div class="visual"><div class="inbox">in</div></div><h2>LET'S<span>CONNECT.</span></h2><p class="desc">Creative design · Web development · Learning in progress.</p><div class="foot">CREATIVE JOURNEY / 2026 ↗</div></article></a>
+</section>
+<p class="hint">HOVER TO PAUSE · CLICK A CARD TO OPEN</p>
+<p class="signature">DESIGN THOUGHTFULLY. BUILD INTENTIONALLY.</p>
+</main></body></html>
