@@ -36,11 +36,11 @@ I enjoy experimenting with ideas, creating digital experiences, and learning by 
 ---
 
 <p align="center">
-  <a href="https://github.com/asiabatoolmemon/AcousticX"><img src="./artboard-acousticx.svg?v=3" width="175" alt="AcousticX project card"></a>
+  <a href="https://github.com/asiabatoolmemon/AcousticX"><img src="./artboard-acousticx.svg?v=3" width="195" alt="AcousticX project card"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/asiabatoolmemon/OIBSIP"><img src="./artboard-oasis.svg?v=3" width="175" alt="Oasis Sips & Work design card"></a>
+  <a href="https://github.com/asiabatoolmemon/OIBSIP"><img src="./artboard-oasis.svg?v=3" width="195" alt="Oasis Sips & Work design card"></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/asia-batool-memon"><img src="./artboard-linkedin.svg?v=3" width="175" alt="LinkedIn profile card"></a>
+  <a href="https://www.linkedin.com/in/asia-batool-memon"><img src="./artboard-linkedin.svg?v=3" width="195" alt="LinkedIn profile card"></a>
 </p>
 
 <p align="center">
