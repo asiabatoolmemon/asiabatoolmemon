@@ -36,7 +36,11 @@ I enjoy experimenting with ideas, creating digital experiences, and learning by 
 ---
 
 <p align="center">
-  <img src="./floating-carousel.svg?v=2" width="100%" alt="Animated 3D circular floating carousel of selected projects">
+  <a href="https://github.com/asiabatoolmemon/AcousticX"><img src="./artboard-acousticx.svg?v=3" width="155" alt="AcousticX project card"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/asiabatoolmemon/OIBSIP"><img src="./artboard-oasis.svg?v=3" width="155" alt="Oasis Sips & Work design card"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/asia-batool-memon"><img src="./artboard-linkedin.svg?v=3" width="155" alt="LinkedIn profile card"></a>
 </p>
 
 ---
