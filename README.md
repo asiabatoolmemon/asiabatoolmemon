@@ -35,14 +35,8 @@ I enjoy experimenting with ideas, creating digital experiences, and learning by 
 
 ---
 
-## 03 / FLOATING PORTFOLIO
-
 <p align="center">
-  <img src="./floating-carousel.svg?v=1" width="100%" alt="Animated 3D circular carousel of selected projects">
-</p>
-
-<p align="center">
-  <sub>ACOUSTICX · OASIS SIPS &amp; WORK · CONNECT</sub>
+  <img src="./floating-carousel.svg?v=2" width="100%" alt="Animated 3D circular floating carousel of selected projects">
 </p>
 
 ---
