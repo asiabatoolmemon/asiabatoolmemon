@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="300" viewBox="0 0 520 300">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101012"/><stop offset="1" stop-color="#211317"/></linearGradient><linearGradient id="red" x2="1" y2="1"><stop stop-color="#e08a84"/><stop offset="1" stop-color="#873941"/></linearGradient></defs>
+<rect width="520" height="300" fill="url(#bg)"/><rect x="14" y="14" width="492" height="272" fill="none" stroke="#59363c"/><text x="34" y="43" fill="#c86b70" font-family="monospace" font-size="11" letter-spacing="2">FIND ME / 003</text><path d="M34 57H486" stroke="#55373c"/>
+<rect x="34" y="82" width="74" height="74" rx="4" fill="#24171b" stroke="#9c4c54"/><text x="71" y="137" fill="url(#red)" font-family="Arial,sans-serif" font-size="42" font-weight="700" text-anchor="middle">in</text>
+<text x="132" y="108" fill="#f5eff0" font-family="Arial,sans-serif" font-size="24" font-weight="700">LET'S CONNECT</text><text x="132" y="133" fill="#b8aeb2" font-family="Arial,sans-serif" font-size="13">Design · Development · Learning</text>
+<path d="M34 184H486" stroke="#55373c"/><text x="34" y="218" fill="#b8aeb2" font-family="Arial,sans-serif" font-size="14">Follow my journey from creative design</text><text x="34" y="239" fill="#b8aeb2" font-family="Arial,sans-serif" font-size="14">into full-stack development.</text><text x="486" y="266" fill="#d66b72" font-family="monospace" font-size="11" text-anchor="end">OPEN LINKEDIN ↗</text>
+</svg>
