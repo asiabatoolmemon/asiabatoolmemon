@@ -38,7 +38,8 @@ I enjoy experimenting with ideas, creating digital experiences, and learning by 
 ## 03 / INTERACTIVE ARTBOARDS
 
 <p align="center">
-  <sub>SELECT AN ARTBOARD TO EXPLORE THE WORK</sub>
+  <sub>SELECT AN ARTBOARD TO EXPLORE THE WORK</sub><br>
+  <a href="https://asiabatoolmemon.github.io/AcousticX/floating-artboards.html">↗ OPEN THE ANIMATED FLOATING ARTBOARDS</a>
 </p>
 
 <table>
