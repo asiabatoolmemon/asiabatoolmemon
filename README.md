@@ -1,6 +1,6 @@
-
+<!-- PERSONAL BRAND / RED + BLACK EDITION -->
 <p align="center">
-  <img src="./header.svg" width="100%" alt="Asia Batool Memon">
+  <img src="./header.svg" width="100%" alt="Asia Batool Memon — Design Meets Code">
 </p>
 
 <h1 align="center">ASIA BATOOL MEMON</h1>
@@ -14,7 +14,9 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/asia-batool-memon">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/asia-batool-memon">LINKEDIN ↗</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/asiabatoolmemon">GITHUB ↗</a>
 </p>
 
 ---
@@ -31,20 +33,46 @@ I enjoy experimenting with ideas, creating digital experiences, and learning by 
   <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" alt="Tools and technologies">
 </p>
 
+---
 
-## 03 / SELECTED WORK
-
-### AcousticX
-
-*A static website built with HTML and CSS.*
-
-An exploration of web layout, visual styling, and front-end development.
+## 03 / INTERACTIVE ARTBOARDS
 
 <p align="center">
-  <a href="https://asiabatoolmemon.github.io/AcousticX/">↗ Live Demo</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/asiabatoolmemon/AcousticX">⌘ View Source Code</a>
+  <sub>SELECT AN ARTBOARD TO EXPLORE THE WORK</sub>
 </p>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://asiabatoolmemon.github.io/AcousticX/">
+        <img src="./artboard-acousticx.svg" width="100%" alt="Open AcousticX — static website project">
+      </a>
+      <strong>01 — ACOUSTICX</strong><br>
+      <sub>HTML · CSS · LIVE PROJECT</sub><br>
+      <a href="https://asiabatoolmemon.github.io/AcousticX/">OPEN LIVE DEMO ↗</a>
+      &nbsp;·&nbsp;
+      <a href="https://github.com/asiabatoolmemon/AcousticX">SOURCE CODE</a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/asiabatoolmemon/OIBSIP">
+        <img src="./artboard-oasis.svg" width="100%" alt="Open Oasis Sips and Work design project">
+      </a>
+      <strong>02 — OASIS SIPS &amp; WORK</strong><br>
+      <sub>BRANDING · VISUAL DESIGN</sub><br>
+      <a href="https://github.com/asiabatoolmemon/OIBSIP">EXPLORE DESIGN WORK ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://www.linkedin.com/in/asia-batool-memon">
+        <img src="./artboard-linkedin.svg" width="72%" alt="Connect with Asia Batool Memon on LinkedIn">
+      </a><br>
+      <strong>03 — CONNECT</strong><br>
+      <sub>CREATIVE DESIGN · WEB DEVELOPMENT · LEARNING</sub><br>
+      <a href="https://www.linkedin.com/in/asia-batool-memon">VISIT LINKEDIN ↗</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -60,7 +88,7 @@ An exploration of web layout, visual styling, and front-end development.
 ## 05 / CONNECT
 
 <p align="center">
-  <a href="www.linkedin.com/in/asia-batool-memon">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/asia-batool-memon">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/asiabatoolmemon">GitHub</a>
 </p>
@@ -70,4 +98,3 @@ An exploration of web layout, visual styling, and front-end development.
 <p align="center">
   <sub>DESIGN THOUGHTFULLY. BUILD INTENTIONALLY.</sub>
 </p>
-
