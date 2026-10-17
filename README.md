@@ -1,12 +1,16 @@
 
 <p align="center">
-  <img src="./header.svg" width="100%" alt="Asia Batool Memon — Personal Banner">
+  <img src="./header.svg" width="100%" alt="Asia Batool Memon">
 </p>
 
 <h1 align="center">ASIA BATOOL MEMON</h1>
 
 <p align="center">
-  <em>Creative by nature. Developer by curiosity.</em>
+  <em>Creative Designer | Full-Stack Developer in Progress</em>
+</p>
+
+<p align="center">
+  Blending creativity, design & technology to build meaningful digital experiences.
 </p>
 
 <p align="center">
@@ -15,37 +19,55 @@
 
 ---
 
-## ABOUT ME
+## 01 / ABOUT
 
-I'm Asia — a creative designer exploring the world of full-stack web development.
+I'm a creative designer exploring the intersection of visual design and development.
 
-I love experimenting with visual ideas, building websites, and bringing creativity and technology together.
+I enjoy experimenting with ideas, creating digital experiences, and learning by building projects.
 
-- Currently learning full-stack web development
-- Working with HTML and CSS
-- Exploring responsive design and media queries
-- Building projects while growing my skills
+## 02 / TOOLKIT
 
-## TECH STACK
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" alt="HTML, CSS, Git, GitHub, VS Code">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" alt="Tools and technologies">
 </p>
 
-## FEATURED PROJECT
 
-### AcousticX 🎧
+## 03 / SELECTED WORK
 
-A static website built with HTML and CSS, focused on layout, styling, and visual presentation.
+### AcousticX
 
-**What I explored:**
-- Structuring webpages with HTML
-- Styling interfaces with CSS
-- Creating layouts and visual hierarchy
-- Practising front-end development through a hands-on project
+*A static website built with HTML and CSS.*
+
+An exploration of web layout, visual styling, and front-end development.
+
+<p align="center">
+  <a href="https://asiabatoolmemon.github.io/AcousticX/">↗ Live Demo</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/asiabatoolmemon/AcousticX">⌘ View Source Code</a>
+</p>
+
+---
+
+## 04 / CURRENTLY EXPLORING
+
+- Responsive web design
+- Creative development
+- Building meaningful digital experiences
+- Expanding my full-stack development skills
+
+---
+
+## 05 / CONNECT
+
+<p align="center">
+  <a href="www.linkedin.com/in/asia-batool-memon">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/asiabatoolmemon">GitHub</a>
+</p>
 
 ---
 
 <p align="center">
-  <em>Learning, creating, and becoming — one project at a time.</em>
+  <sub>DESIGN THOUGHTFULLY. BUILD INTENTIONALLY.</sub>
 </p>
+
