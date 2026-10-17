@@ -1,7 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="300" viewBox="0 0 520 300">
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101012"/><stop offset="1" stop-color="#211317"/></linearGradient><linearGradient id="red" x2="1" y2="1"><stop stop-color="#e08a84"/><stop offset="1" stop-color="#873941"/></linearGradient></defs>
-<rect width="520" height="300" fill="url(#bg)"/><rect x="14" y="14" width="492" height="272" fill="none" stroke="#59363c"/><text x="34" y="43" fill="#c86b70" font-family="monospace" font-size="11" letter-spacing="2">FIND ME / 003</text><path d="M34 57H486" stroke="#55373c"/>
-<rect x="34" y="82" width="74" height="74" rx="4" fill="#24171b" stroke="#9c4c54"/><text x="71" y="137" fill="url(#red)" font-family="Arial,sans-serif" font-size="42" font-weight="700" text-anchor="middle">in</text>
-<text x="132" y="108" fill="#f5eff0" font-family="Arial,sans-serif" font-size="24" font-weight="700">LET'S CONNECT</text><text x="132" y="133" fill="#b8aeb2" font-family="Arial,sans-serif" font-size="13">Design · Development · Learning</text>
-<path d="M34 184H486" stroke="#55373c"/><text x="34" y="218" fill="#b8aeb2" font-family="Arial,sans-serif" font-size="14">Follow my journey from creative design</text><text x="34" y="239" fill="#b8aeb2" font-family="Arial,sans-serif" font-size="14">into full-stack development.</text><text x="486" y="266" fill="#d66b72" font-family="monospace" font-size="11" text-anchor="end">OPEN LINKEDIN ↗</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="400" viewBox="0 0 300 400">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101012"/><stop offset="1" stop-color="#211317"/></linearGradient>
+ <linearGradient id="face" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#242126"/><stop offset="1" stop-color="#131114"/></linearGradient>
+ <linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e08a84"/><stop offset="1" stop-color="#873941"/></linearGradient>
+ <filter id="shadow" x="-30%" y="-20%" width="170%" height="170%"><feGaussianBlur stdDeviation="7"/></filter>
+</defs>
+<rect width="300" height="400" fill="url(#bg)"/><ellipse cx="153" cy="350" rx="94" ry="16" fill="#000" opacity=".55" filter="url(#shadow)"/>
+<g transform="translate(44 25) rotate(-1 105 165)">
+ <path d="M12 8 L218 0 L226 322 L20 331 Z" fill="#070709" opacity=".9"/><path d="M218 0 L231 8 L239 329 L226 322 Z" fill="#5d343a"/><path d="M20 331 L226 322 L239 329 L33 340 Z" fill="#29191e"/>
+ <path d="M12 8 L218 0 L226 322 L20 331 Z" fill="url(#face)" stroke="#875058" stroke-width="1"/><path d="M23 20 L207 13 L214 307 L30 315 Z" fill="#111013" stroke="#3f3036" stroke-width=".8"/>
+ <text x="39" y="43" fill="#c86b70" font-family="monospace" font-size="8" letter-spacing="1.5">FIND ME / 003</text><path d="M39 55 L197 49" stroke="#654148" stroke-width=".8"/>
+ <rect x="39" y="84" width="62" height="62" rx="3" fill="#24171b" stroke="#9c4c54"/><text x="70" y="129" fill="url(#red)" font-family="Arial,sans-serif" font-size="38" font-weight="700" text-anchor="middle">in</text>
+ <text x="39" y="183" fill="#f5eff0" font-family="Arial,sans-serif" font-size="21" font-weight="700">LET'S</text><text x="39" y="208" fill="#d66b72" font-family="Arial,sans-serif" font-size="21" font-weight="700">CONNECT.</text>
+ <text x="39" y="237" fill="#b8aeb2" font-family="Arial,sans-serif" font-size="10">Design · Development</text><text x="39" y="251" fill="#b8aeb2" font-family="Arial,sans-serif" font-size="10">· Learning in progress</text>
+ <path d="M39 271H192" stroke="#4d353b"/><text x="39" y="290" fill="#d66b72" font-family="monospace" font-size="7.5" letter-spacing=".7">CREATIVE JOURNEY / 2026</text>
+</g>
+<text x="150" y="382" fill="#d66b72" font-family="monospace" font-size="9" letter-spacing="1.3" text-anchor="middle">OPEN LINKEDIN ↗</text>
 </svg>
