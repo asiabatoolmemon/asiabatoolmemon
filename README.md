@@ -35,45 +35,15 @@ I enjoy experimenting with ideas, creating digital experiences, and learning by 
 
 ---
 
-## 03 / INTERACTIVE ARTBOARDS
+## 03 / FLOATING PORTFOLIO
 
 <p align="center">
-  <sub>SELECT AN ARTBOARD TO EXPLORE THE WORK</sub><br>
-  <a href="https://asiabatoolmemon.github.io/AcousticX/floating-artboards.html">↗ OPEN THE ANIMATED FLOATING ARTBOARDS</a>
+  <img src="./floating-carousel.svg?v=1" width="100%" alt="Animated 3D circular carousel of selected projects">
 </p>
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://asiabatoolmemon.github.io/AcousticX/">
-        <img src="./artboard-acousticx.svg?v=2" width="100%" alt="Open AcousticX — static website project">
-      </a>
-      <strong>01 — ACOUSTICX</strong><br>
-      <sub>HTML · CSS · LIVE PROJECT</sub><br>
-      <a href="https://asiabatoolmemon.github.io/AcousticX/">OPEN LIVE DEMO ↗</a>
-      &nbsp;·&nbsp;
-      <a href="https://github.com/asiabatoolmemon/AcousticX">SOURCE CODE</a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/asiabatoolmemon/OIBSIP">
-        <img src="./artboard-oasis.svg?v=2" width="100%" alt="Open Oasis Sips and Work design project">
-      </a>
-      <strong>02 — OASIS SIPS &amp; WORK</strong><br>
-      <sub>BRANDING · VISUAL DESIGN</sub><br>
-      <a href="https://github.com/asiabatoolmemon/OIBSIP">EXPLORE DESIGN WORK ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://www.linkedin.com/in/asia-batool-memon">
-        <img src="./artboard-linkedin.svg?v=2" width="72%" alt="Connect with Asia Batool Memon on LinkedIn">
-      </a><br>
-      <strong>03 — CONNECT</strong><br>
-      <sub>CREATIVE DESIGN · WEB DEVELOPMENT · LEARNING</sub><br>
-      <a href="https://www.linkedin.com/in/asia-batool-memon">VISIT LINKEDIN ↗</a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <sub>ACOUSTICX · OASIS SIPS &amp; WORK · CONNECT</sub>
+</p>
 
 ---
 
